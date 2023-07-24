@@ -1,0 +1,108 @@
+::Q1::A Constituição de 1988 é um marco histórico na garantia dos direitos das mulheres no Brasil. Nesse sentido é correto afirmar que a Carta Maior versa, no Art. 5º, inciso I:
+{
+    =Homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição Federal.
+    ~Homens e mulheres são iguais em direitos, porém com obrigações distintas, nos termos da Constituição Federal.
+}
+
+::Q2::O que diz a lei 11.340 de 2006?
+{
+    =A Lei Maria da Penha 11.340 de 2006, busca coibir, punir e erradicar a violência contra as mulheres; 
+    ~Todo ser humano tem direito à vida, à liberdade e à segurança pessoal. Ninguém será mantido em escravidão ou servidão; a escravidão e o tráfico de escravos serão proibidos em todas as suas formas. Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante.
+    ~A Lei Maria da Penha 11.340 de 2006, busca coibir, punir e erradicar a violência contra todas as pessoas; 
+}
+
+::Q3::De acordo com o texto do caderno pedagógico, outro marco que fundamentou a luta pela garantia dos direitos das mulheres foi a Convenção Interamericana sobre a concessão dos direitos civis da mulher, fundamentada no princípio da dignidade da pessoa humana, a qual é comum a todos os seres em qualquer parte do mundo. Qual ano da Convenção Interamericana sobre a Concessão dos Direitos Civis à Mulher?
+{
+    =1948
+    ~1953
+    ~1969
+}
+
+::Q4::As questões de gênero estão relacionadas ao conjunto de representações construídas historicamente sobre o feminino e o masculino, são os significados, a simbologia e as diferenças atribuídas para cada um dos sexos, que pode mudar de sociedade para sociedade, e numa mesma sociedade em diferentes épocas.
+{
+    T
+}
+
+::Q5::Assinale a afirmativa que caracteriza corretamente um dos conceitos envolvidos no debate sobre identidade de gênero.
+{
+    ~Identidade de gênero é o padrão de comportamento masculino e feminino.
+    ~Sexo biológico é a distinção entre feminino e masculino, com base no modo como o cérebro representa essas condições.
+    =Papel de Gênero indica como a pessoa se reconhece, enquanto homem, mulher ou nenhum deles. 
+    ~Todas as questões anteriores estão corretas. 
+    ~Nenhuma das opções anteriores está correta.
+}
+
+::Q6::Ao demonstrar que papéis de gênero são padrões e expectativas de comportamentos aprendidos em sociedade. É correto afirmar que gênero não é a mesma coisa que sexo. O sexo de uma pessoa é dado pela natureza, já o gênero é construído socialmente, enquanto a sexualidade é a atração ou a falta dela associada a determinados gêneros, sexos e condições.
+{
+    T
+}
+
+::Q7::Em relação ao texto, analise as assertivas abaixo. I - O Patriarcado é uma estrutura na qual as mulheres, dentro das relações, assumem um papel de poder e dominação sobre aos homens, de forma autoritária. II - É importante reconhecer que a existência das desigualdades entre homens e mulheres e criar mecanismos para a sua superação tem sido um desafio e uma luta constante das organizações de mulheres e feministas. III - Na cultura patriarcal as condições de vida, as quais elas estão inseridas, são estruturas pesadas de opressão e desvalorização do papel protagônico das mulheres. IV - Mulheres e homens são sujeitos culturais, e somente conseguem criar, recriar, decidir e interagir, no curso da história, quando se apropriam de elementos que constituem essa mesma história para inferir movimentos de resistência, que são movimentos culturais. Assinale a alternativa correta:
+{
+    ~Estão corretas as afirmativas I e III apenas. 
+    =Estão corretas as afirmativas II, III e IV.
+    ~Todas alternativas estão corretas.
+    ~Estão corretas as afirmativas III e IV apenas. 
+}
+
+::Q8::Marque a alternativa correta:De acordo com o caderno pedagógico são bandeiras, de luta do movimento de mulheres:
+{
+    ~A violência contra à mulher; 
+    ~A diferença salarial entre gêneros; 
+    ~Pouca inserção feminina no meio político; 
+    ~Casos de assédio e preconceito contra as mulheres (sexual, de raça, classe, geracional);
+    =Todas as alternativas corretas.
+}
+
+::Q9::Pode-se afirmar que: O machismo defende a ideia de que os homens são superiores às mulheres. Já o feminismo defende a ideia de que homens e mulheres tenham direitos e oportunidades iguais, ou seja, o feminismo é um movimento contra o machismo e não contra os homens. 
+{
+    T
+}
+
+::Q10::O movimento feminista no Brasil surgiu no século XIX, o que havia nas primeiras manifestações? I - Tinham protestos radicais que iam além da igualdade política, mas que abrangiam a emancipação feminina, pautando-se sempre na relação de dominação masculina sobre a feminina em todos os aspectos da vida da mulher. II - No Brasil, a conquista do direito ao voto feminino se deu apenas em 1932. Muitas conquistas reivindicadas pelas mulheres vieram depois disso, a exemplo da ampliação dos direitos da mulher. III - O feminismo como não era grupo homogêneo, tampouco tinham uma pauta única, entretanto, as bandeiras da igualdade de gênero, de raça, de classe, geracional, permeiam as lutas de resistências. Assinale a alternativa correta:
+{
+    =Estão corretas as afirmativas I e II.
+    ~Está correta a afirmativas II
+    ~Estão corretas as afirmativas III e I
+    ~Todas afirmativas estão corretas
+    ~Nenhuma afirmativa está correta
+}
+
+::Q11::O movimento feminista passou a ganhar visibilidade no campo, a partir da década de 80, com as primeiras manifestações de mulheres por seu direito à participação nos sindicatos, de forma independente de pais, irmãos ou maridos. Marque verdadeiro ou falso.
+{
+    T
+}
+
+::Q12::De acordo com o texto quais os espaços que as mulheres do campo e os seus movimentos tiveram forte participação?
+{
+    ~Associações de produtores
+    ~Cooperativas e experiências de produção 
+    ~Comercialização de produtos agrícolas, extrativistas, pesca e artesanais, ajudando, ainda, na elaboração das redes de economia solidária e produção agroecológica. 
+    ~Nenhuma das alternativas
+    =Todas as alternativas estão corretas.
+}
+
+::Q13::Sobre a missão do cooperativismo, marque verdadeiro ou falso: O Cooperativismo tem como grande missão: dar a mão para fazer juntos e juntas, aquilo que não se pode fazer sozinhos. Cooperação é toda ação conjunta para atingir um objetivo comum. Cooperando, juntamos forças para alcançar propósitos maiores.
+{
+    T
+}
+
+::Q14::Sobre a missão do cooperativismo, marque verdadeiro ou falso: Contribuir para o bem estar econômico e social dos dirigentes por meio de orientação e oferta de produtos e serviços econômico-financeiros.
+{
+    F
+}
+
+::Q15::Sobre a missão do cooperativismo, marque verdadeiro ou falso: Cooperação é toda ação conjunta para atingir um objetivo e comercializar a produção em benefício de uma minoria.
+{
+    F
+}
+
+::Q16::Qual o papel do Cooperativa, marque verdadeiro ou falso:Acredita-se que as cooperativas têm a tarefa de melhorar a capacidade de emancipar as mulheres, apoiando a voz das nossas ativistas nos processos de sensibilização social e de formulação de políticas públicas. Deve-se salientar o significativo papel que as mulheres ativistas de cooperativas rurais têm realizado na geração de melhores condições para elas e para as suas famílias no campo, ao mesmo tempo que têm contribuído para o avanço do cooperativismo solidário.
+{
+    T
+}
+
+::Q17::Várias experiências organizativas fomentadas nos anos 80 e 90 pelas organizações sociais, principalmente cooperativismo da agricultura familiar e economia solidária vem estimulando processos organizativos que possibilitam às famílias principalmente as mulheres a deixarem o pacote tecnológico do agroquímico e construir novo modelo tecnológico baseado nos princípios da Agroecologia e dos processos de agroindústria familiar. Marque verdadeiro ou falso.
+{
+    T
+}
